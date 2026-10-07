@@ -37,7 +37,7 @@ Vocablee is a free, ad-free, Duolingo-style micro-learning app for **YDS** and *
 - **Mini mock exams**: short mixed tests that give an estimated YDS score and point out weak areas.
 - **Adaptive placement test**: finds your CEFR level (A1–C2) in at most 20 questions and picks your starting point.
 
-## 🤖 AI-generated, exam-focused content
+## AI-generated, exam-focused content
 
 **All of the questions are original.** None are copied from past papers or other apps. They were written with AI, aimed squarely at the YDS/YÖKDİL format, and then put through a quality pipeline:
 
@@ -54,14 +54,14 @@ Vocablee is a free, ad-free, Duolingo-style micro-learning app for **YDS** and *
 
 | | |
 |---|---|
-| 🗺️ Learn Path | **50 levels**, A1 → C2, 575+ drills |
-| 📝 Original questions | **5,000+** |
-| 📚 Vocabulary | **1,400+** high-frequency exam words |
-| 🔗 Phrasal verbs | **230+** |
-| ✍️ Grammar | **81 topics**, 2,200+ questions |
-| 📖 Reading | 500+ questions |
-| 🧩 Sentence building | 1,900+ items |
-| 🎯 Mini mock exams | 500 questions in fixed, difficulty-balanced sets |
+| Learn Path | **50 levels**, A1 → C2, 575+ drills |
+| Original questions | **5,000+** |
+| Vocabulary | **1,400+** high-frequency exam words |
+| Phrasal verbs | **230+** |
+| Grammar | **81 topics**, 2,200+ questions |
+| Reading | 500+ questions |
+| Sentence building | 1,900+ items |
+| Mini mock exams | 500 questions in fixed, difficulty-balanced sets |
 
 ## Screenshots
 
